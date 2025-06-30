@@ -1,5 +1,6 @@
 ---
 title: "Extreme Value Analysis 2027"
+toc: true
 ---
 
 Welcome on the home page of *Extreme Value Analysis* 2027 (EVA 2027). EVA is a biennial international conference on extreme value analysis, probabilistic and statistical models and their applications. The 15th edition  will be hosted by [HEC Montréal](www.hec.ca) in downtown Montréal (Québec, Canada) at the [Hélène-Desmarais building](https://www.hec.ca/en/campus/helene-desmarais/index.html) from Monday July 5th until Friday July 9th, 2027.
@@ -22,7 +23,7 @@ Previous editions of EVA took place in:
 - [Lyon, France (2011)](http://eva2011.univ-lyon1.fr/)
 - Shanghai, China (2013)
 - [Ann Arbor, Michigan, USA (2015)](https://sites.lsa.umich.edu/eva2015/)
-- [Delft, Netherlands (2017)](http://www.eva2017.nl/)
+- Delft, Netherlands (2017)
 - [Zagreb, Croatia (2019)](https://web.math.pmf.unizg.hr/eva2019/)
 - [Edinburgh, UK (2021, virtual)](https://www.maths.ed.ac.uk/school-of-mathematics/events/past-events/eva-2021)
 - [Milano, Italy (2023)](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023)
@@ -72,9 +73,9 @@ The scientific committee of the event will allocate invited sessions and plenary
 ## Local organizing committee
 
 - [Léo Belzile](https://lbelzile.bitbucket.io) (HEC Montréal)
-- [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/)
-- [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova)
-- [Michaël Lalancette]()
+- [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/) (University of Ottawa)
+- [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova) (McGill)
+- [Michaël Lalancette](https://mic-lalancette.github.io/) (UQÀM)
 
 # Sponsors
 
@@ -82,7 +83,7 @@ We gratefully acknowledge financial support from
 
 - the [*Centre de Recherche Mathématiques*](https://www.crmath.ca/)
 - [HEC Montréal](https://www.hec.ca)
-- the [Canadian Statistical Science Institute (CANSSI)](https://canssi.ca/) with support from [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp),
+- the [Canadian Statistical Science Institute (CANSSI)](https://canssi.ca/) with support from [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)
 
 
 ```{r}
@@ -97,7 +98,3 @@ knitr::include_graphics(path = "files/HEC_logo.png")
 # knitr::include_graphics(path = "files/SSC_logo.png")
 
 ```
-
-## Data challenge
-
-## 
