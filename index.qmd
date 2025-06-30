@@ -6,11 +6,11 @@ toc: true
 Welcome on the home page of *Extreme Value Analysis* 2027 (EVA 2027). EVA is a biennial international conference on extreme value analysis, probabilistic and statistical models and their applications. The 15th edition  will be hosted by [HEC Montréal](www.hec.ca) in downtown Montréal (Québec, Canada) at the [Hélène-Desmarais building](https://www.hec.ca/en/campus/helene-desmarais/index.html) from Monday July 5th until Friday July 9th, 2027.
 
 
-Satellite workshops and courses will take place on Sunday, July 4th,and the week before the conference starts.
+Satellite workshops and courses will take place on Sunday, July 4th, as well as the week before the conference starts.
 
 ## History
 
-The inception of EVA dates back to Vimeiro meeting in Portugal in 1983 in August 31st--September 14th. Further conference in the field were organized in Oberwolfach with the 1987 Conference on *Extremewertheorie*, and the Gaithersburg 1993 Conference on Extreme Value Theory and its Applications.
+The inception of EVA dates back to Vimeiro meeting in Portugal in 1983 in August 31st--September 14th. Further meetings in the field were organized in Oberwolfach with the 1987 Conference on *Extremewertheorie*, and the Gaithersburg 1993 Conference on Extreme Value Theory and its Applications.
 
 Previous editions of EVA took place in:
 
