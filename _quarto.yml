@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs/"
+  resources:
+   - "files/"
+website:
+  title: "EVA 2027 - HEC Montréal"
+  site-url: https://eva2027.github.io
+  description: "Extreme Value Analysis International Conference 2027 (15th edition) at HEC Montréal."
+  navbar:
+    pinned: true
+    background: "#003C71"
+    right:
+      - text: "Home"
+        href: index.qmd
+ #     - text: "Venue"
+ #       href: venue.qmd
+ #     - text: "Registration"
+ #       href: registration.qmd
+ #     - text: "About"
+ #       href: about.qmd
+        
+format:
+  html:
+    theme:
+       - html/custom.scss

@@ -1,0 +1,26 @@
+author: Léo Belzile
+
+person:
+  name: Dr. Léo Belzile
+  name_no_title: Léo Belzile
+  title: professeur agrégé
+  department: "Sciences de la décision"
+  email: leo.belzile@hec.ca
+  url: https://www.lbelzile.bitbucket.io
+  github: lbelzile
+  office: "CSC 4.850"
+  copyright_year: "2022--2024"
+  phone:  "514 340-6839"
+  expertise: >
+    Extreme values, Likelihood-based inference, Bayesian hierarchical modelling, Statistical software
+  orcid: 0000-0002-9135-014X
+
+university:
+  name: HEC Montréal
+  url: https://www.hec.ca
+  adress: >
+   HEC Montréal<br>
+   3000, ch. Côte-Sainte-Catherine<br>
+   Montréal (Québec)<br>
+   Canada H3T 2A7
+
