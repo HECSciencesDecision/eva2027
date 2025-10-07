@@ -84,6 +84,8 @@ The organizing committee will contact hotels to book rooms at a discounted rate.
 
 The scientific committee of the event will allocate invited sessions and plenary talks. It consists of between 15 and 20 experts in the field.
 
+The chair of the scientific committee is [Anne Sabourin](https://helios2.mi.parisdescartes.fr/~asabouri/) (Université Paris Cité).
+
 ## Local organizing committee
 
 - [Léo Belzile](https://lbelzile.bitbucket.io) (HEC Montréal)
