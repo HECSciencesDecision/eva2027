@@ -82,9 +82,40 @@ The organizing committee will contact hotels to book rooms at a discounted rate.
 
 ## Scientific committee
 
-The scientific committee of the event will allocate invited sessions and plenary talks. It consists of between 15 and 20 experts in the field.
+The tasks of the scientific committee all relate to the organization of the scientific activities. The scientific committee will:
 
-The chair of the scientific committee is [Anne Sabourin](https://helios2.mi.parisdescartes.fr/~asabouri/) (Université Paris Cité).
+1. oversee invited talks (determining topics and organizers), 
+2. review the contributed talks proposals and build the the program and the schedule, 
+3. organize the satellite workshops
+4. prepare and oversee the data challenge, including the special issue for *Extremes* 
+5. organize a poster competition and judge the latter
+6. adjudicate, together with members of the *Extremes* board, the best paper award for junior researchers.
+
+Confirmed members for the committee for the 2027 edition of EVA are:
+
+- [Boris Béranger](https://www.borisberanger.com/) (University of New South Wales Sidney)
+- [Miguel de Carvalho]() (University of Edinburgh), communication officer
+- [Clément Dombry](https://cdombry.perso.math.cnrs.fr/) (Université de Franche-Comté)
+- [Anna Kiriliouk](https://akiriliouk.github.io/) (Université catholique de Louvain)
+- [Thomas Mikosch](https://web.math.ku.dk/~mikosch/) (University of Copenhagen)
+- [Philippe Naveau](https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/) (LSCE, CNRS)
+- [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) (INRAE Avignon)
+- [Jordan Richards](https://jbrich95.github.io/) (University of Edinburgh), data challenge organiser
+- [**Anne Sabourin**](https://helios2.mi.parisdescartes.fr/~asabouri/) (Université Paris Cité), chairperson
+- [Johan Segers](https://perso.uclouvain.be/johan.segers/) (KU Leuven)
+- [Emma Simpson](https://www.homepages.ucl.ac.uk/~ucakess/) (University College London)
+- [Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/) (Colorado State University)
+- [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/) (University of Michigan)
+- [Kirstin Strokorb](https://strokorb.github.io/) (University of Bath)
+
+
+
+
+
+
+
+
+
 
 ## Local organizing committee
 
