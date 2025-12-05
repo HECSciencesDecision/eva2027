@@ -107,7 +107,8 @@ Confirmed members for the committee for the 2027 edition of EVA are:
 - [Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/) (Colorado State University)
 - [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/) (University of Michigan)
 - [Kirstin Strokorb](https://strokorb.github.io/) (University of Bath)
-
+- [Gilles Stupfler](https://math.univ-angers.fr/~stupfler/) (Université d'Angers)
+- [Thordis Thorarinsdottir](https://www.mn.uio.no/math/english/people/aca/thordist/index.html) (University of Oslo)
 
 
 
