@@ -80,21 +80,14 @@ The committee for the 2027 edition of EVA is formed of:
 - [Thordis Thorarinsdottir](https://www.mn.uio.no/math/english/people/aca/thordist/index.html) (University of Oslo)
 
 
-
-
-
-
-
-
-
 ## Local organizing committee
 
-- [**Léo Belzile**](https://lbelzile.bitbucket.io) (HEC Montréal)
+- [**Léo Belzile**](https://lbelzile.bitbucket.io) (HEC Montréal), lead organizer
 - [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/) (University of Ottawa)
 - [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova) (McGill)
 - [Michaël Lalancette](https://mic-lalancette.github.io/) (UQÀM)
 
-# Sponsors
+## Sponsors
 
 We gratefully acknowledge financial support from
 
