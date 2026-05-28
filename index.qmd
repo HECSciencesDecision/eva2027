@@ -54,11 +54,11 @@ Please bring a copy of your presentation on a USB stick at least 15 minutes befo
 The tasks of the scientific committee all relate to the organization of the scientific activities. The scientific committee will:
 
 1. oversee invited talks (determining topics and organizers), 
-2. review the contributed talks proposals and build the the program and the schedule, 
-3. organize the satellite workshops
+2. review the contributed talks proposals, build the program and make a schedule, 
+3. organize the satellite workshops and short courses
 4. prepare and oversee the data challenge, including the special issue for *Extremes* 
 5. organize a poster competition and judge the latter
-6. adjudicate, together with members of the *Extremes* board, the best paper award for junior researchers.
+6. determine, together with members of the *Extremes* board, the best paper award for junior researchers.
 
 The committee for the 2027 edition of EVA is formed of:
 
@@ -69,7 +69,7 @@ The committee for the 2027 edition of EVA is formed of:
 - [Thomas Mikosch](https://web.math.ku.dk/~mikosch/) (University of Copenhagen)
 - [Philippe Naveau](https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/) (LSCE, CNRS)
 - [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) (INRAE Avignon)
-- [Jordan Richards](https://jbrich95.github.io/) (University of Edinburgh), data challenge organiser
+- [Jordan Richards](https://jbrich95.github.io/) (University of Edinburgh), data challenge organizer
 - [**Anne Sabourin**](https://helios2.mi.parisdescartes.fr/~asabouri/) (Université Paris Cité), chairperson
 - [Johan Segers](https://perso.uclouvain.be/johan.segers/) (KU Leuven)
 - [Emma Simpson](https://www.homepages.ucl.ac.uk/~ucakess/) (University College London)
@@ -86,6 +86,9 @@ The committee for the 2027 edition of EVA is formed of:
 - [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/) (University of Ottawa)
 - [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova) (McGill)
 - [Michaël Lalancette](https://mic-lalancette.github.io/) (UQÀM)
+- [Debbie J. Dupuis](https://www.hec.ca/en/profs/debbie.dupuis.html) (HEC Montréal)
+- [Mélina Mailhot](https://www.concordia.ca/faculty/melina-mailhot.html) (Concordia University)
+
 
 ## Sponsors
 
