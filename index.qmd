@@ -83,11 +83,15 @@ The committee for the 2027 edition of EVA is formed of:
 ## Local organizing committee
 
 - [**Léo Belzile**](https://lbelzile.bitbucket.io) (HEC Montréal), lead organizer
-- [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/) (University of Ottawa)
-- [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova) (McGill)
-- [Michaël Lalancette](https://mic-lalancette.github.io/) (UQÀM)
 - [Debbie J. Dupuis](https://www.hec.ca/en/profs/debbie.dupuis.html) (HEC Montréal)
+- [Jonathan Jalbert](https://www.polymtl.ca/expertises/jalbert-jonathan) (Polytechnique Montréal)
+- [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/) (University of Ottawa)
+- [Michaël Lalancette](https://mic-lalancette.github.io/) (UQÀM)
 - [Mélina Mailhot](https://www.concordia.ca/faculty/melina-mailhot.html) (Concordia University)
+- [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova) (McGill)
+
+
+
 
 
 ## Sponsors
