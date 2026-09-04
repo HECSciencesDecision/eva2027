@@ -45,9 +45,9 @@ $dark:          $gray-800 !default;
 $font-family-sans-serif:      Fira Sans Condensed, sans-serif !default;
 $font-family-serif:           Barlow, serif !default;  /* Not actually a serif font but whatever */
 
-$font-size-base:              1.5rem !default;
-$headings-font-weight:        900 !default;
-$h1-font-size: $font-size-base * 2.3;
+$font-size-base:              1.4rem !default;
+$headings-font-weight:        700 !default;
+$h1-font-size: $font-size-base * 1.7;
 $h2-font-size: $font-size-base * 1.7;
 $h3-font-size: $font-size-base * 1.5;
 $h4-font-size: $font-size-base * 1.2;
@@ -74,8 +74,8 @@ h2 {
 .title-block {
   background-color: $hecblue;
   color: $white;
-  margin: 1em 0;
-  border-bottom: 3px solid $gray-200;
+  margin: 1em 0 0 0;
+  border-bottom: 1px solid $gray-200;
   padding-bottom: 1em;
 }
 

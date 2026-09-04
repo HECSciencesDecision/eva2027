@@ -7,23 +7,23 @@ page-layout: full
 :::: {.columns}
 
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 
 ```{r}
 #| eval: true
 #| echo: false
 #| out-width: '100%'
-#| fig-align: 'center'
+#| fig-align: 'left'
 knitr::include_graphics(path = "files/EVA2027_logo.png")
 ```
 
 :::
 
-::: {.column width="1%"}
+::: {.column width="5%"}
 
 :::
 
-::: {.column width="69%"}
+::: {.column width="55%"}
 
 Welcome on the home page of *Extreme Value Analysis* 2027 (EVA 2027). EVA is a biennial international conference on extreme value analysis, probabilistic and statistical models and their applications. 
 
