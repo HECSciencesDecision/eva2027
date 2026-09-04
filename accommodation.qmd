@@ -1,5 +1,5 @@
 ---
-title: "Practical information"
+pagetitle: "Practical information"
 ---
 
 [Montreal Tourism office](https://www.mtl.org/en/what-to-do/business-events) has practical information about the city.

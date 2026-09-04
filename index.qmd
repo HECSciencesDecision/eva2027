@@ -1,5 +1,5 @@
 ---
-title: "Extreme Value Analysis 2027"
+pagetitle: "Extreme Value Analysis 2027"
 page-layout: full
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "EVA 2027 - Committees"
+pagetitle: "EVA 2027 - Committees"
 ---
 
 
