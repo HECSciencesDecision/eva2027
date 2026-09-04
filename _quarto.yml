@@ -13,8 +13,16 @@ website:
     right:
       - text: "Home"
         href: index.qmd
- #     - text: "Venue"
- #       href: venue.qmd
+      - text: "Venue"
+        href: venue.qmd
+      - text: "Accommodation and travel"
+        href: accommodation.qmd
+      - text: "Committees"
+        href: committees.qmd
+      - text: "History"
+        href: history.qmd
+      - text: "Sponsors"
+        href: sponsors.qmd
  #     - text: "Registration"
  #       href: registration.qmd
  #     - text: "About"

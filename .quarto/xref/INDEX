@@ -1,5 +1,20 @@
 {
   "index.qmd": {
     "index.html": "8bcf67c9"
+  },
+  "venue.qmd": {
+    "venue.html": "7744d3da"
+  },
+  "history.qmd": {
+    "history.html": "b67bb1e7"
+  },
+  "sponsors.qmd": {
+    "sponsors.html": "91901d1b"
+  },
+  "accommodation.qmd": {
+    "accommodation.html": "05822814"
+  },
+  "committees.qmd": {
+    "committees.html": "00076133"
   }
 }

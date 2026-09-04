@@ -1,0 +1,23 @@
+---
+title: "Sponsors"
+---
+
+This event would not be possible with external funding sources that help us maintain the costs for students and postdocs affordable. We gratefully acknowledge financial support from
+
+- the [*Centre de Recherche Mathématiques*](https://www.crmath.ca/)
+- [HEC Montréal](https://www.hec.ca)
+- the [Canadian Statistical Science Institute (CANSSI)](https://canssi.ca/) with support from [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)
+
+
+```{r}
+#| eval: true
+#| echo: false
+#| layout-ncol: 3
+#| out-width: '90%'
+#| fig-align: 'center'
+knitr::include_graphics(path = "files/CRM_logo.png")
+knitr::include_graphics(path = "files/CANSSI_logo.png")
+knitr::include_graphics(path = "files/HEC_logo.png")
+# knitr::include_graphics(path = "files/SSC_logo.png")
+
+```

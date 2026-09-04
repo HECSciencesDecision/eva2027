@@ -1,0 +1,46 @@
+---
+title: "EVA 2027 - Committees"
+---
+
+
+## Scientific committee
+
+The tasks of the scientific committee all relate to the organization of the scientific activities. The scientific committee will:
+
+1. oversee invited talks (determining topics and organizers),
+2. review the contributed talks proposals, build the program and make a schedule,
+3. organize the satellite workshops and short courses
+4. prepare and oversee the data challenge, including the special issue for *Extremes*
+5. organize a poster competition and judge the latter
+6. determine, together with members of the *Extremes* board, the best paper award for junior researchers.
+
+The committee for the 2027 edition of EVA is formed of:
+
+- [Boris Béranger](https://www.borisberanger.com/) (University of New South Wales Sidney)
+- [Miguel de Carvalho]() (University of Edinburgh), communication officer
+- [Clément Dombry](https://cdombry.perso.math.cnrs.fr/) (Université de Franche-Comté)
+- [Anna Kiriliouk](https://akiriliouk.github.io/) (Université catholique de Louvain)
+- [Thomas Mikosch](https://web.math.ku.dk/~mikosch/) (University of Copenhagen)
+- [Philippe Naveau](https://www.lsce.ipsl.fr/en/pisp/philippe-naveau/) (LSCE, CNRS)
+- [Thomas Opitz](https://biosp.mathnum.inrae.fr/homepage-thomas-opitz) (INRAE Avignon)
+- [Jordan Richards](https://jbrich95.github.io/) (University of Edinburgh), data challenge organizer
+- [**Anne Sabourin**](https://helios2.mi.parisdescartes.fr/~asabouri/) (Université Paris Cité), chairperson
+- [Johan Segers](https://perso.uclouvain.be/johan.segers/) (KU Leuven)
+- [Emma Simpson](https://www.homepages.ucl.ac.uk/~ucakess/) (University College London)
+- [Benjamin Shaby](https://www.stat.colostate.edu/~bshaby/) (Colorado State University)
+- [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/) (University of Michigan)
+- [Kirstin Strokorb](https://strokorb.github.io/) (University of Bath)
+- [Gilles Stupfler](https://math.univ-angers.fr/~stupfler/) (Université d'Angers)
+- [Thordis Thorarinsdottir](https://www.mn.uio.no/math/english/people/aca/thordist/index.html) (University of Oslo)
+
+
+## Local organizing committee
+
+- [**Léo Belzile**](https://lbelzile.bitbucket.io) (HEC Montréal), lead organizer
+- [Debbie J. Dupuis](https://www.hec.ca/en/profs/debbie.dupuis.html) (HEC Montréal)
+- [Jonathan Jalbert](https://www.polymtl.ca/expertises/jalbert-jonathan) (Polytechnique Montréal)
+- [Rafal Kulik](https://mysite.science.uottawa.ca/rkulik/) (University of Ottawa)
+- [Michaël Lalancette](https://mic-lalancette.github.io/) (UQÀM)
+- [Mélina Mailhot](https://www.concordia.ca/faculty/melina-mailhot.html) (Concordia University)
+- [Johanna G. Nešlehová](https://www.math.mcgill.ca/neslehova) (McGill)
+

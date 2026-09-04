@@ -1,0 +1,24 @@
+---
+title: "EVA history"
+---
+
+
+The inception of EVA dates back to Vimeiro meeting in Portugal in 1983 in August 31st--September 14th. Further meetings in the field were organized in Oberwolfach with the 1987 Conference on *Extremewertheorie*, and the Gaithersburg 1993 Conference on Extreme Value Theory and its Applications.
+
+Previous editions of EVA took place in:
+
+- Göteborg, Sweden (1998)
+- Leuven, Belgium (2001)
+- Aveiro, Portugal (2004)
+- [Göteborg, Sweden (2005)](http://www.math.ku.dk/~mikosch/maphysto_extremes_2005/extremes.html)
+- Bern, Switzerland (2007)
+- [Fort Collins, Colorado, USA (2009)](http://www.stat.colostate.edu/graybillconference2009/)
+- [Lyon, France (2011)](http://eva2011.univ-lyon1.fr/)
+- Shanghai, China (2013)
+- [Ann Arbor, Michigan, USA (2015)](https://sites.lsa.umich.edu/eva2015/)
+- Delft, Netherlands (2017)
+- [Zagreb, Croatia (2019)](https://web.math.pmf.unizg.hr/eva2019/)
+- [Edinburgh, UK (2021, virtual)](https://www.maths.ed.ac.uk/school-of-mathematics/events/past-events/eva-2021)
+- [Milano, Italy (2023)](https://dec.unibocconi.eu/research/extreme-value-analysis-eva-2023)
+- [Chapel Hill, North Carolina, USA (2025)](https://eva2025.unc.edu/)
+
