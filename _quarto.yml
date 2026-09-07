@@ -17,16 +17,18 @@ website:
         href: venue.qmd
       - text: "Accommodation and travel"
         href: accommodation.qmd
-      - text: "Committees"
-        href: committees.qmd
-      - text: "History"
-        href: history.qmd
+      - text: "Data challenge"
+        href: datachallenge.qmd
+      - text: About
+        menu:
+          - text: "Committees"
+            href: committees.qmd
+          - text: "History"
+            href: history.qmd
       - text: "Sponsors"
         href: sponsors.qmd
  #     - text: "Registration"
  #       href: registration.qmd
- #     - text: "About"
- #       href: about.qmd
         
 format:
   html:

@@ -1,0 +1,14 @@
+---
+pagetitle: "Data challenge"
+---
+
+
+## Data challenge
+
+
+The data challenge for the Extreme Value Analysis 2027 conference is organized in collaboration with the [International Air Transport Association (IATA)](https://www.iata.org/), headquartered in Montréal. It consists of three prediction tasks related to the estimation of the extremal characteristics of in-flight turbulence events experienced by transatlantic flights.
+
+
+Registration will open by the end of September 2026. Participants will need to fill a sign-up form and a non-disclosure agreement to access the data.
+
+The contact person for the data challenge is [Jordan Richards](https://jbrich95.github.io/) (University of Edinburgh)
