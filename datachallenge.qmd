@@ -9,6 +9,14 @@ pagetitle: "Data challenge"
 The data challenge for the Extreme Value Analysis 2027 conference is organized in collaboration with the [International Air Transport Association (IATA)](https://www.iata.org/), headquartered in Montréal. It consists of three prediction tasks related to the estimation of the extremal characteristics of in-flight turbulence events experienced by transatlantic flights.
 
 
-Registration will open by the end of September 2026. Participants will need to fill a sign-up form and a non-disclosure agreement to access the data.
+Registration will open soon!
+
+### Instructions
+
+- Participating teams must register via the Microsoft form (the link can be found at the end of the PDF containing the description of the challenge and the instructions) before January 31st, 2027. The maximum team size is 10. 
+- Upon registering via the form, all participating team members will have to sign an electronic non-disclosure agreement (NDA) with IATA, who own the rights to the data, in order to participate in the challenge. 
+- After all participants have e-signed the NDA, the challenge organisers will share the dataset via email with the corresponding team member.
+- Teams will be invited to submit preliminary predictions before May 1st, 2027 by sending the four parquet files in a ZIP file by email to Jordan Richards. All teams who submitted will then receive a preliminary ranking, for both the individual tasks and the overall aggregated score. 
+- The final deadline for submission is June 1st, 2027. As part of the final submission, we ask that the participants provide a brief summary of the methodology used for tackling each of the three tasks as a bullet point list with potentially scientific references, if available.
 
 The contact person for the data challenge is [Jordan Richards](https://jbrich95.github.io/) (University of Edinburgh)

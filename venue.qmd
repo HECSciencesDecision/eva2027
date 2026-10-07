@@ -2,7 +2,7 @@
 title: "Venue"
 ---
 
-The conference and satellite courses will take place in the [Hélène-Desmarais building] in downtown Montréal.
+The conference and satellite courses will take place in the [Hélène-Desmarais building](https://www.hec.ca/en/campus/helene-desmarais-building) in downtown Montréal.
 Consult the website for a map of the floors ([3rd floor](https://www.hec.ca/en/campus/helene-desmarais-building/plan-level-3) and [4th floor](https://www.hec.ca/en/campus/helene-desmarais-building/plan-level-4))
 
 The address of the venue is 501, rue de la Gauchetière Ouest, Montréal, H2Z 1Z5.

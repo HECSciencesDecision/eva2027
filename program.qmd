@@ -1,0 +1,38 @@
+---
+pagetitle: "Program"
+---
+
+# Keynotes
+
+
+- [Richard Davis (Columbia)](https://sites.stat.columbia.edu/rdavis/)
+- [Mark D. Risser (Lawrence Berkeley National Lab)](https://markdrisser.github.io/)
+- [Johanna Ziegel (ETHZ)](https://people.math.ethz.ch/~ziegelj/index.html)
+
+
+# Invited sessions
+
+```{r}
+#| eval: true
+#| echo: false
+library(tinytable)
+invtalks <- read.csv("files/invited_sessions.csv", header = TRUE) |>
+  dplyr::mutate(number = 1:dplyr::n()) |>
+  dplyr::arrange(Session) |>
+  dplyr::mutate(Session = paste0(
+    number, ". ", Session, " (organizer: ", Organizer,")")) |>
+  tibble::as_tibble()
+tab <- tt(invtalks) |>
+  group_tt(i = Session) |>
+  group_tt(j = list("Speakers in invited sessions"=1:3)) |>
+   style_tt(
+    i = seq(from = 1, by = 2, length.out = nrow(invtalks)),
+    align = "l",
+    color = "white",
+    background = "#003C71",
+    bold = TRUE) |>
+  subset(select = -c(Session, Organizer, number)) |>
+  style_tt("colnames", italic = TRUE) 
+colnames(tab) <- rep("", 3)
+tab
+```

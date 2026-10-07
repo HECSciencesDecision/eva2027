@@ -17,6 +17,8 @@ website:
         href: venue.qmd
       - text: "Accommodation and travel"
         href: accommodation.qmd
+      - text: "Program"
+        href: program.qmd
       - text: "Data challenge"
         href: datachallenge.qmd
       - text: About
