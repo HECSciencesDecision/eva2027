@@ -24,3 +24,28 @@ We are currently arranging deals with hotels and student dormitories to offer EV
 - [Résidences ZUM](https://www.zumauberge.ca/)
 - [McGill Residences - Royal Victoria](https://www.mcgill.ca/accommodations/summer/rvc)
 - [Campus1 Montreal](https://campus1mtl.ca/montreal-student-housing/)
+
+
+
+
+::: {.callout-note appearance="simple"}
+### [Résidences ZUM](https://www.zumauberge.ca/)
+<details name="Instructions"> 
+Use the [direct booking code](https://direct-book.com/properties/zumhoteldirect?locale=fr&items[0][adults]=1&items[0][children]=0&items[0][infants]=0&currency=CAD&checkInDate=2027-07-02&checkOutDate=2027-07-10&trackPage=no&promocode=EVA2027) to reserve your stay. You can alternatively reserve between July 2nd and 10th using the code `EVA2027` on `zumauberge.ca`.
+
+**Rates**
+
+Reservations must be made for a minimum of three nights. Availability is not guaranteed: reservations are made on a first-come, first-served basis until June 24th. Book early!
+
+Sale taxes are excluded from prices. All prices are in Canadian dollars (CAD)
+
+- Solo: (single room, 36 rooms): \$69/night (3-6 nights), \$62.15 (7 nights or more).
+- Double: (double, 2 rooms) \$88/night (3-6 nights), \$79.14 (7 nights or more)
+- Business Suites: (double, 2 rooms)
+\$144/night (3-6 nights), \$129.52 (7 nights or more)
+*These can only be booked by phone.*
+
+
+For any questions, contact `info@zumauberge.ca` or by phone at +1 514-343-8006.
+</details> 
+:::

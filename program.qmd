@@ -2,6 +2,13 @@
 pagetitle: "Program"
 ---
 
+# Short courses {#short-courses}
+
+We are pleased to announce that two one-day workshops will be organized just before the conference on July 3rd and 4th.
+
+- Workshop 1: *Extremal statistical learning* (Lead organizer:  [Sebastian Engelke](https://sengelke.com/))
+- Workshop 2: *Amortized simulation-based inference*. (Lead organizer: [Raphaël Huser](https://cemse.kaust.edu.sa/profiles/raphael-huser))
+
 # Keynotes
 
 
