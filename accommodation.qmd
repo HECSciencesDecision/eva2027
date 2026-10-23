@@ -14,23 +14,32 @@ You may need an [electronic travel authorization (eTA)](https://www.canada.ca/en
 
 Please note that [Montreal International Jazz Festival](https://montrealjazzfest.com/) runs from June 25th until July 4th. We encourage you to secure your accommodation well in advance, particularly if you plan to attend the short courses over the weekend.
 
-The organizing committee will contact hotels to book rooms at a discounted rate. There are  [numerous hostels, hotels and bed and breakfasts close to downtown](https://www.mtl.org/en/Accommodations?prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B0%5D=Downtown&prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B1%5D=Les%20Quartiers%20du%20Canal&prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B2%5D=Mount%20Royal%2C%20Outremont%20and%20Westmount&prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B3%5D=Old%20Montr%C3%A9al%20and%20Old%20Port).
 
-# Hotels
-
-We are currently arranging deals with hotels and student dormitories to offer EVA participants with discounts and affordable options for early career options. We are in discussion with:
-
-- [Le Nouvel Hôtel](https://www.lenouvelhotel.com/)
-- [Résidences ZUM](https://www.zumauberge.ca/)
-- [McGill Residences - Royal Victoria](https://www.mcgill.ca/accommodations/summer/rvc)
-- [Campus1 Montreal](https://campus1mtl.ca/montreal-student-housing/)
+We are arranging deals with hotels and student dormitories to offer EVA participants with discounts and affordable options for early career options.
 
 
+<details>
+<summary>Le Nouvel Hôtel [(website)](https://www.lenouvelhotel.com/)
+</summary>
 
 
-::: {.callout-note appearance="simple"}
-### [Résidences ZUM](https://www.zumauberge.ca/)
-<details name="Instructions"> 
+Open block reservation: rooms are available until capacity is filled. Rates are valid until June 13th, 2027. Free cancellation until two weeks before arrival. All prices per night are in CAD. Sales taxes are not included.
+
+- Executive 1 King: King bed + sofa Bed  ($224/night)
+- Executive 2 Queens: 2 Queen bed ($224/night)
+- Condo 1 King: King bed + sofa + kitchenette ($224/night)      
+- Condo 2 Queens: 2 Queen beds + kitchenette ($224/night)
+- Corner Suite: King bed + sofa bed ($254/night)
+
+
+To book, contact Mourad Othman by email at <mothman@lenouvelhotel.com> or by phone
+at +1 514-931-8841 p. 2605.
+
+</details>
+
+<details>
+<summary>Résidences ZUM  [(website)](https://www.zumauberge.ca/)</summary>
+
 Use the [direct booking code](https://direct-book.com/properties/zumhoteldirect?locale=fr&items[0][adults]=1&items[0][children]=0&items[0][infants]=0&currency=CAD&checkInDate=2027-07-02&checkOutDate=2027-07-10&trackPage=no&promocode=EVA2027) to reserve your stay. You can alternatively reserve between July 2nd and 10th using the code `EVA2027` on `zumauberge.ca`.
 
 **Rates**
@@ -47,5 +56,13 @@ Sale taxes are excluded from prices. All prices are in Canadian dollars (CAD)
 
 
 For any questions, contact `info@zumauberge.ca` or by phone at +1 514-343-8006.
-</details> 
-:::
+
+</details>
+
+ We are in discussion with:
+
+
+- [McGill Residences - Royal Victoria](https://www.mcgill.ca/accommodations/summer/rvc)
+- [Campus1 Montreal](https://campus1mtl.ca/montreal-student-housing/)
+
+There are also [numerous hostels, hotels and bed and breakfasts close to downtown](https://www.mtl.org/en/Accommodations?prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B0%5D=Downtown&prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B1%5D=Les%20Quartiers%20du%20Canal&prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B2%5D=Mount%20Royal%2C%20Outremont%20and%20Westmount&prod_en_random%5BrefinementList%5D%5B_filter_product_neighbourhoods%5D%5B3%5D=Old%20Montr%C3%A9al%20and%20Old%20Port).

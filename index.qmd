@@ -28,7 +28,7 @@ knitr::include_graphics(path = "files/EVA2027_logo.png")
 Welcome on the home page of *Extreme Value Analysis* 2027 (EVA 2027). EVA is a biennial international conference on extreme value analysis, probabilistic and statistical models and their applications. 
 
 The 15th edition  will be hosted by [HEC Montréal](www.hec.ca) in downtown Montréal (Québec, Canada) at the [Hélène-Desmarais building](https://www.hec.ca/en/campus/helene-desmarais/index.html) from Monday July 5th until Friday July 9th, 2027.
-Satellite courses will take place on Saturday and Sunday, July 3rd to 4th.
+Satellite courses will take place on Saturday, July 3rd and Sunday, July 4th.
 
 :::
 
@@ -36,8 +36,10 @@ Satellite courses will take place on Saturday and Sunday, July 3rd to 4th.
 ::::
 
 # News
-
-- 21/10/2026: we are pleased to announce that there will be a summer school comprising two workshops on July 3-4, taught by Sebastian Engelke and Raphaël Huser. [More details here](program.qmd).
-- 15/10/2026: The link to book accommodation at the UdeM student residence is now available.
+<!--
+- 22/10/2026: [Abstract submission now open](https://forms.gle/B71fvMvvwcsrK1gi8). Please use the accompanying [LaTeX template](files/abstract-template-EVA2027.tex) to check the format.
+-->
+- 23/10/2026: Links for accommodation now available.
+- 21/10/2026: We are pleased to announce that there will be a summer school comprising two workshops on July 3-4, taught by Sebastian Engelke and Raphaël Huser. [More details here](program.qmd).
 - 13/10/2026: The data challenge is ready to ship, but registration needs to wait for some legal paperwork. Thanks for your patience.
 - 06/10/2026: Partial information about keynotes and invited talks now available online.

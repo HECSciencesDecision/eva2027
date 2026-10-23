@@ -31,7 +31,6 @@ website:
         href: sponsors.qmd
  #     - text: "Registration"
  #       href: registration.qmd
-        
 format:
   html:
     theme:
