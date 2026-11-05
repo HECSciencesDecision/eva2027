@@ -24,8 +24,8 @@ We are pleased to announce that two one-day workshops will be organized just bef
 #| echo: false
 library(tinytable)
 invtalks <- read.csv("files/invited_sessions.csv", header = TRUE) |>
-  dplyr::mutate(number = 1:dplyr::n()) |>
   dplyr::arrange(Session) |>
+  dplyr::mutate(number = 1:dplyr::n()) |>
   dplyr::mutate(Session = paste0(
     number, ". ", Session, " (organizer: ", Organizer,")")) |>
   tibble::as_tibble()
